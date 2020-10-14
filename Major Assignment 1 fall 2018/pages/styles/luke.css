@@ -1,0 +1,48 @@
+* {
+	margin:0;
+	padding:0;
+}
+body{
+	background-image: url(../images/space.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	}
+#page{
+	text-align: center;
+	width:960px;
+	margin:0 auto;
+	position:relative;
+}
+h1{
+	font-family:"Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+	color:white;
+}
+h4{
+	color:black;
+}
+img{
+	border: 2px solid white;
+	border-radius:10px 10px 10px 10px;
+	margin-top: 10px;
+}
+img:hover{
+	-moz-box-shadow:0 0 25px #4D7788;
+	-webkit-box-shadow:0 0 25px #4D7788;
+	box-shadow:0 0 25px #4D7788;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+	width: 100px;
+	background-color: white;
+	border: 2px solid black;
+    border-radius:10px 10px 10px 10px;
+	margin-top: 30px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+a{
+	text-decoration:none;
+}
+
+
